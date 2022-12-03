@@ -1,0 +1,141 @@
+
+.matchBtn{
+    font-size: 16px;
+}
+
+.resetBtn{
+    font-size: 16px;
+}
+@media (min-width:200px) {
+    .matchBtn{
+        font-size: 10px !important;
+        padding: 5px 0px !important;
+    }
+    .resetBtn{
+        font-size: 10px !important;
+        padding: 5px 0px !important;
+    }
+    
+}
+@media (min-width:320px) {
+    .footerBody{
+        font-size: 14px;
+    } 
+    .matchBtn{
+        font-size: 12px !important ;
+        padding: 6px 0px !important;
+    }
+    
+    .resetBtn{
+        font-size: 12px !important ;
+        padding: 6px 0px !important;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 700px)   {
+    
+
+    .matchBtn{
+        font-size: 13px !important ;
+        padding: 7px 0px !important;
+    }
+    
+    .resetBtn{
+        font-size: 13px !important ;
+        padding: 7px 0px !important;
+    }
+    
+}
+
+@media (min-width:700px) {
+    .headerBody{
+        font-size: 16px;
+    }
+
+    .matchBtn{
+        font-size: 14px !important ;
+        padding: 8px 0px !important;
+    }
+    
+    .resetBtn{
+        font-size: 14px !important ;
+        padding: 8px 0px !important;
+    }
+
+
+   
+}
+@media (min-width:1024px) {
+    .headerBody{
+        font-size: 17px;
+    }
+    .matchBtn{
+        font-size: 17px;
+       
+    }
+    
+    .resetBtn{
+        font-size: 17px;
+        
+    }
+
+   
+}
+@media (min-width:1280px) {
+    .headerBody{
+        font-size: 18px;
+    }  
+    .matchBtn{
+        font-size: 18px;
+       
+    }
+    
+    .resetBtn{
+        font-size: 18px;
+        
+    }
+}
+@media (min-width:1536px) {
+    .headerBody{
+        font-size: 19px;
+    }  
+    .matchBtn{
+        font-size: 19px;
+       
+    }
+    
+    .resetBtn{
+        font-size: 19px;
+        
+    }
+}
+
+@media (min-width:1920px) {
+    .headerBody{
+        font-size: 21px;
+    }  
+    .matchBtn{
+        font-size: 20px;
+       
+    }
+    
+    .resetBtn{
+        font-size: 20px;
+        
+    }
+}
+
+@media (min-width:2560px) {
+    .headerBody{
+        font-size: 23px;
+    }  
+    .matchBtn{
+        font-size: 20px;
+       
+    }
+    
+    .resetBtn{
+        font-size: 20px;
+        
+    }
+}
